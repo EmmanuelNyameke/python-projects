@@ -1,1 +1,1 @@
-# These folder contains all my python projects files from the day I started college.
+# These files contain all my python projects from the day I started college.
